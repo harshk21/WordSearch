@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Words Search</string>
+    <string name="welcome_to_search_words">Welcome to search words</string>
+    <string name="wor_search">Word Search</string>
+    <string name="enter_your_word_here">Enter your word here</string>
+    <string name="mean_like">Word Means Like</string>
+    <string name="sound_like">Word Sounds Like</string>
+    <string name="spell_like">Word Spells Like</string>
+    <string name="add">Add</string>
+    <string name="_8_5">8.5</string>
+    <string name="search">Search</string>
+</resources>
